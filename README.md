@@ -1,3 +1,15 @@
+This react based application is capable of taking in name and age as input from the user, and display the list to the user dynamically. 
+The user can also delete a user from the list by clicking on it.
+Proper error checks are in place too, along with a display message for the Error Modal layout.
+
+To build the project, first run the following command:
+
+`npm install`
+
+To run the project, run the following command:
+
+`npm start`
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
