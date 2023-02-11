@@ -1,0 +1,18 @@
+.user__class {
+  border-radius: 25px;
+  padding: 25px;
+  width: 200px;
+  background: white;
+  margin: auto;
+  margin-top: 25px;
+  width: 40%;
+  cursor: pointer;
+}
+
+.user__class_text_box {
+    color: black;
+    text-align: left;
+    padding: 20px;
+    border: 2px solid grey;
+    font-family: 'Courier New', Courier, monospace;
+}
